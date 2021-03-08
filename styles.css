@@ -1,0 +1,186 @@
+body{
+  font-family: "Montserrat";
+}
+
+
+#title {
+  background-color: #ffff;
+
+}
+
+#menu {
+  background-color: #ff4c68;
+text-align: center;
+  padding: 2% 7% 5%;
+}
+#nosotros{
+
+  padding:5% 7%;
+background-color: #ffff;
+
+}
+
+
+
+.table{
+  background-color: #FFFF;
+}
+.frutas-image{
+  width:50%;
+}
+.yogur-size{
+  color:#3b5360;
+}
+.container-fluid{
+
+padding-left:5%;
+padding-bottom: 3%;
+padding-right: 5%;
+
+}
+.row{
+  margin-left: 1rem;
+}
+.navbar {
+padding-bottom: 1rem;
+padding-left: 1rem;
+}
+.navbar-nav{
+  padding-bottom: 70px;
+}
+.nav-item{
+padding: 0 18px;
+
+}
+.nav-link{
+font-size:1.2rem;
+
+}
+.frutas-image{
+  width: 90%;
+  
+    border-radius: 30px;
+    margin-left: 25px;
+}
+.message-title{
+padding-top: 3rem;
+
+}
+
+
+.menu-title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 2.5;
+  font-weight: 900;
+  color: #ffff;
+  text-align: left;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+line-height: 1.5;
+font-weight: 900;
+color: black;
+padding-bottom: 10px;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+font-weight:
+color: white;
+padding-bottom: 2rem;
+
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight:
+  color: black;
+  padding-bottom: 2rem;
+}
+.logo-yogurfrut{
+  background-color: white;
+}
+.titulo-nosotors{
+color: #383e56;
+
+}
+#footer{
+
+text-align: center;
+  padding: 2% 7% 5%;
+
+}
+#contacto{
+  background-color: #ff4c68;
+text-align: left;
+padding:5% 7%;
+color:#ffff;
+}
+.footer-copyright{
+  text-align: center;
+
+}
+
+.footer-fontawesome{
+margin: 3% 3% 1% 0;
+
+}
+.contacto-direccion{
+  margin:0;
+}
+.titulo-contacto{
+  color:#ffff;
+}
+.container{
+width: 80%;
+}
+.contact-box{
+  display: flex;
+}
+.contact-rigth{
+  flex-basis: 40%;
+  padding: 40px 60px;
+}
+.container{
+  width:400px;
+}
+.form-label{
+  color:#ffff;
+}
+.form-control{
+    border-radius:5px;
+    border-color:#cccc;
+}
+.form-control:focus{
+  box-shadow: none;
+
+}
+.form-group:focus-within{
+
+  transform:scale(1.2,1.2);
+}
+@media (max-width: 800px) {
+  h1{
+font-size: 2.5rem;
+    }
+    p{
+      font-size: 1.5rem;
+    }
+body{
+  font-size: 1.5rem;
+}
+.menu-title{
+font-size: 2.8rem;
+}
+.navbar-nav{
+  font-size: 2rem;
+
+}
+  }
